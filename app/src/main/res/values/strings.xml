@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cookie Clicker</string>
+    <string name="cookie_clicker">Cookie Clicker</string>
+    <string name="deistvie">КЛИК</string>
+    <string name="cooks">Нажми на кнопку!</string>
+    <string name="todo">TODO</string>
+</resources>
