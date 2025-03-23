@@ -4,4 +4,14 @@
     <string name="deistvie">КЛИК</string>
     <string name="cooks">Нажми на кнопку!</string>
     <string name="todo">TODO</string>
+    <string name="donatetext">Поддержите разработку!</string>
+    <string name="todo1">TODO</string>
+    <string name="shop_name">Магазин</string>
+    <string name="donate_name">Поддержать</string>
+    <string name="sber_text">Сбер: 5169899803341594</string>
+    <string name="back_text">Назад</string>
+    <string name="shop_txt">Магазин</string>
+    <string name="upgrade_txt"><![CDATA[<- Увеличить добычу]]></string>
+    <string name="balance">"Печенек: 0"</string>
+    <string name="todo2">TODO</string>
 </resources>
